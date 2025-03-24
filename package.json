@@ -1,0 +1,20 @@
+{
+  "name": "rgit_edu",
+  "version": "1.0.0",
+  "description": "*A revolutionary AI-powered storytelling platform*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mui/icons-material": "^6.4.8",
+    "@splinetool/react-spline": "^4.0.0",
+    "framer-motion": "^12.5.0"
+  },
+  "devDependencies": {
+    "@gradio/client": "^1.13.1"
+  }
+}
